@@ -7,7 +7,7 @@ USSR_logic.kicad_sym - Symbols lib
 201.14-8.kicad_mod   - DIP-14 footprint with 2.50 mm pitch
 201.16.5.kicad_mod   - DIP-16 footprint with 2.50 mm pitch
 </code></pre>
-### Release 0.1 - Feb 04,2022
+### Release 0.1 - Feb 04,2023
 List of symbols:<pre><code>
 АП2   | DP8226 - 4-bit Bidirectional Bus Transceiver
 ИД4   | 74155 - dual 2-to-4 line decoder/demultiplexer, inverting outputs
