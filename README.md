@@ -3,10 +3,22 @@
 Made by Software & Computer Museum in Ukraine<br />
 Symbols and footrprint library.
 <pre><code>
-USSR_logic.kicad_sym - Symbols lib
+USSR_logic.kicad_sym - Logic Symbols lib
+USSR_1801.kicad_sym  - 1801 series lib
 201.14-8.kicad_mod   - DIP-14 footprint with 2.50 mm pitch
 201.16.5.kicad_mod   - DIP-16 footprint with 2.50 mm pitch
 </code></pre>
+
+### Release 0.2 - Dec 19,2023
+USSR_1801.kicad_sym lib added
+Symbols:
+КМ1801ВМ1     |  Процессор
+КР1801ВП1-033 |  Многофункциональный контроллер внешних устройств
+КР1801ВП1-065 |  Последовательный интерфейс со скоростью до 115200 бод
+КР1801РЕ2     |  ПЗУ 4Кx16
+КР1802ВВ1     |  Cхема обмена информацией
+КР1802ИР1     |  Двухадресный регистр общего назначения, 16×4.
+
 ### Release 0.1 - Feb 04,2023
 List of symbols:<pre><code>
 АП2   | DP8226 - 4-bit Bidirectional Bus Transceiver
