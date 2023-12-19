@@ -7,17 +7,20 @@ USSR_logic.kicad_sym - Logic Symbols lib
 USSR_1801.kicad_sym  - 1801 series lib
 201.14-8.kicad_mod   - DIP-14 footprint with 2.50 mm pitch
 201.16.5.kicad_mod   - DIP-16 footprint with 2.50 mm pitch
+239.24-2.kicad_mod   - DIP-24 Wide footprint with 2.50 mm pitch
+2123.40-6.kicad_mod  - DIP-40 footprint with 2.50 mm pitch
+429.42-5.kicad_mod   - 42 PIN footprint for KR1801VP1
 </code></pre>
 
 ### Release 0.2 - Dec 19,2023
 USSR_1801.kicad_sym lib added
 Symbols:<pre><code>
-КМ1801ВМ1     |  Процессор
-КР1801ВП1-033 |  Многофункциональный контроллер внешних устройств
-КР1801ВП1-065 |  Последовательный интерфейс со скоростью до 115200 бод
-КР1801РЕ2     |  ПЗУ 4Кx16
-КР1802ВВ1     |  Cхема обмена информацией
-КР1802ИР1     |  Двухадресный регистр общего назначения, 16×4.
+КМ1801ВМ1     |  KM1801VM1      CPU        Процессор
+КР1801ВП1-033 |  KR1801VP1-033             Многофункциональный контроллер внешних устройств
+КР1801ВП1-065 |  KR1801VP1-033  UART       Последовательный интерфейс со скоростью до 115200 бод
+КР1801РЕ2     |  KR1801RE2      ROM 4kx16  ПЗУ 4Кx16
+КР1802ВВ1     |  KR1802VV1                 Cхема обмена информацией
+КР1802ИР1     |  KR1802IR1                 Двухадресный регистр общего назначения, 16×4.
 </code></pre>
 
 ### Release 0.1 - Feb 04,2023
