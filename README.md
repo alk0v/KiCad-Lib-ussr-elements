@@ -9,8 +9,22 @@ USSR_1801.kicad_sym  - 1801 series lib
 201.16.5.kicad_mod   - DIP-16 footprint with 2.50 mm pitch
 239.24-2.kicad_mod   - DIP-24 Wide footprint with 2.50 mm pitch
 2123.40-6.kicad_mod  - DIP-40 footprint with 2.50 mm pitch
+2140.20-1.kicad_mod  - DIP-20 footprint with 2.50 mm pitch
 429.42-5.kicad_mod   - 42 PIN footprint for KR1801VP1
 </code></pre>
+
+### Release 0.3 - Apr 27, 2025
+
+USSR_logic.kicad_sym updated with the following symbols
+
+АП6   | 74245 - Octal bus transceiver
+ТЛ2   | 7414 - Hex Inverter with Schmitt Trigger inputs
+ИД7   | 74138 - 1-of-8 Decoder/Demultiplexer
+ЛЛ1   | 7432 - Quadruple 2-Input Positive-OR Gates
+ИР16  | 74295 - 4-Bit right-shift left-shift registers with 3-state outputs
+ЛА13  | 7438 - quad 2-input NAND buffer
+
+2140.20-1.kicad_mod - DIP-20 footprint with 2.50 mm pitch
 
 ### Release 0.2 - Dec 19,2023
 USSR_1801.kicad_sym lib added
