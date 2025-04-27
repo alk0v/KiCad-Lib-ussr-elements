@@ -15,7 +15,7 @@ USSR_1801.kicad_sym  - 1801 series lib
 
 ### Release 0.3 - Apr 27, 2025
 
-USSR_logic.kicad_sym updated with the following symbols
+USSR_logic.kicad_sym updated with the following symbols:<pre><code>
 
 АП6   | 74245 - Octal bus transceiver
 ТЛ2   | 7414 - Hex Inverter with Schmitt Trigger inputs
@@ -23,7 +23,7 @@ USSR_logic.kicad_sym updated with the following symbols
 ЛЛ1   | 7432 - Quadruple 2-Input Positive-OR Gates
 ИР16  | 74295 - 4-Bit right-shift left-shift registers with 3-state outputs
 ЛА13  | 7438 - quad 2-input NAND buffer
-
+</code></pre>
 2140.20-1.kicad_mod - DIP-20 footprint with 2.50 mm pitch
 
 ### Release 0.2 - Dec 19,2023
