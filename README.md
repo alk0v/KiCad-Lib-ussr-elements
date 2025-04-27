@@ -16,7 +16,6 @@ USSR_1801.kicad_sym  - 1801 series lib
 ### Release 0.3 - Apr 27, 2025
 
 USSR_logic.kicad_sym updated with the following symbols:<pre><code>
-
 АП6   | 74245 - Octal bus transceiver
 ТЛ2   | 7414 - Hex Inverter with Schmitt Trigger inputs
 ИД7   | 74138 - 1-of-8 Decoder/Demultiplexer
