@@ -4148,7 +4148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "74295 - 4-Bit right-shift left-shift registers with 3-state outputs"
+		(property "Description" "74373 - Octal D-Type Transparent Latches And Edge-Triggered Flip-Flops"
 			(at 0 0 0)
 			(effects
 				(font

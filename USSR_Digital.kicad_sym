@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "82S126 - 256x4 PROM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -464,7 +464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MB8877A - FDD Controller"
 			(at 0 0 0)
 			(effects
 				(font
